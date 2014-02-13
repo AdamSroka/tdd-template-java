@@ -1,0 +1,1 @@
+A simple starter project with test dependencies for TDD using JUnit 4.x, AssertJ, and Mockito
