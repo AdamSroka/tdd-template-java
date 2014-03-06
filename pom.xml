@@ -6,7 +6,7 @@
 
     <groupId>tdd-template</groupId>
     <artifactId>tdd-template</artifactId>
-    <version>0.01</version>
+    <version>0.02</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
